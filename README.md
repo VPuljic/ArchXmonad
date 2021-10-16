@@ -1,6 +1,6 @@
 ﻿# Arcobk
 
-1. Back up of my dotfiles for xmonad arcolinux
+1. Back up of my dotfiles for xmonad arch linux
 
 2. After installation of xmonad arcolinux pull this repo and copy all files to right directories.
 3. Install all programs from pkglist.txt:
